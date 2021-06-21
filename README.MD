@@ -1,4 +1,4 @@
-# SMB Wathcy Watchface
+# SMB Watchy Watchface
 
 ![SMB](watchy-smb.png)
 
